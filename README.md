@@ -10,13 +10,13 @@ Sobre mim:
   - Graduado como tecnólogo pela Fatec e cursando desenvolvimento web pela Cubos Academy.
 
 Linguegens e Frameworks:
-HTML5
-CSS3
-JavasCript 
-Java
-PHP
-Node.js
-React.js
+- HTML5
+- CSS3
+- JavasCript 
+- Java
+- PHP
+- Node.js
+- React.js
 
 Banco de dados:
 Postgres
