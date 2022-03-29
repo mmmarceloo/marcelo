@@ -19,18 +19,14 @@ Linguegens e Frameworks:
 - React.js
 
 Banco de dados:
-Postgres
+Postgres,
 MySQL
 
 Editores e IDE's:
-VS Code
-Sublime
-Eclipse
-IntelliJ
-NetBeans
+VS Code, Sublime, Eclipse, IntelliJ, NetBeans
 
 Ferramentas:
-Figma
+Figma,
 Git
 
 
